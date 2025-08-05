@@ -876,3 +876,44 @@
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+
+
+Dự án này là gì?
+Đây là dự án "Awesome" trên GitHub – một trong những repo nổi tiếng nhất chuyên tổng hợp các tài nguyên, thư viện, công cụ, sách, blog… “đỉnh” nhất dành cho dân lập trình và công nghệ.
+Repo này thuộc dạng "danh sách tổng hợp" (curated list), phân loại theo chủ đề, rất phù hợp cho bất kỳ ai muốn tìm hiểu hoặc nâng cao kiến thức về một lĩnh vực IT nào đó.
+
+Mục đích chính
+Tập hợp các tài nguyên tốt nhất (awesome) về lập trình, công nghệ, khoa học máy tính và nhiều chủ đề liên quan.
+
+Giúp bạn tìm thấy tài liệu, công cụ, framework, khóa học, blog, podcast, v.v… uy tín nhất chỉ trong một nơi duy nhất, thay vì phải tự mò từng nguồn trên mạng.
+
+Cộng đồng cùng đóng góp, nên nội dung luôn được cập nhật.
+
+Dành cho ai?
+Người mới học lập trình/công nghệ muốn tìm nguồn học chất lượng.
+
+Lập trình viên có kinh nghiệm muốn khám phá công cụ mới, cập nhật xu hướng.
+
+Bất kỳ ai cần tra cứu các thư viện, tài nguyên, hay chỉ đơn giản là muốn “lạc trôi” trong thế giới công nghệ.
+
+Dự án gồm những gì?
+Các danh sách "Awesome" con: Mỗi chủ đề như Front-end, Back-end, Big Data, AI, Security, Database, Programming Language, Linux, macOS, v.v… đều có một repo hoặc tài liệu riêng đi kèm.
+
+Liên kết đến tài nguyên nổi bật: Mỗi chủ đề lại dẫn ra các dự án, trang web, sách, khóa học hoặc công cụ cụ thể cho lĩnh vực đó.
+
+Hướng dẫn đóng góp: Bạn cũng có thể đóng góp bổ sung tài nguyên mới theo hướng dẫn (contributing.md).
+
+Các file markdown tổ chức nội dung: Dễ dàng tìm kiếm, duyệt và khám phá theo từng mục.
+
+Cách sử dụng?
+Duyệt danh sách: Vào trang chính của repo, xem các mục như Platforms, Programming Languages, Front-End, Back-End, Big Data,...
+
+Click vào từng chủ đề: Mỗi mục sẽ dẫn bạn đến danh sách Awesome riêng biệt hoặc một phần con bên trong chứa tài nguyên chi tiết.
+
+Khám phá tài nguyên: Ở mỗi danh sách con, bạn sẽ thấy link đến các thư viện, công cụ, tài liệu, v.v...
+
+Đóng góp (optional): Nếu có tài nguyên hay, bạn có thể góp phần vào repo bằng cách tạo pull request theo hướng dẫn.
+
+Tóm lại
+Dự án này là một “bách khoa toàn thư” mở về các tài nguyên công nghệ chất lượng cao, cho phép bạn tiết kiệm thời gian tìm kiếm, cập nhật nhanh những thứ hữu ích nhất trong lĩnh vực bạn quan tâm.
+Rất phù hợp cho người mới hoặc bất kỳ ai muốn học hỏi và cập nhật công nghệ!
